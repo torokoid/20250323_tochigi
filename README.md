@@ -180,7 +180,8 @@ p.note { display: none; }
 <a href="20250323_025.JPG" target="_blank"><img src="20250323_025.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250323_026.JPG" target="_blank"><img src="20250323_026.JPG" alt="サンプル画像" width="900" /></a>
 
-    
+<h2><span class="yellow">イベント広場ではアイドルGrが実演中、そばに寄るとカメラ出せないので遠くから録画</span></h2>
+<a href="20250323_001.mp4" target="_blank"><img src="20250323_001.mp4" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br>
 
